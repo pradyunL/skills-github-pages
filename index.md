@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-Hello my name is Pradyun
+body: Hello my name is Pradyun
 ---
 
